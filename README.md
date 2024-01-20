@@ -6,4 +6,4 @@ GitHub does not allow upload the game build as a repository, so use the mirror l
 
 If the download does not start/website is not responding, wait or try again. /// If you have any issues or problems, please dm in discord - @p2ce_leak
 
-Or you can get direct download link here: [Click](https://docs.google.com/document/d/16sZ0cYnN--ODuERf_yVWg6ZJFJ8-Zlh39vUeqzgwLNs/edit?usp=sharing)
+Or you can get direct download link in "url here" txt in repo
